@@ -5,6 +5,7 @@ Interact With your Phone using discord!, Built using Termux Api
 # How to Install
 
 Install Termux on your phone using F-Droid
+<br>
 Install Termux Api on your phone using F-Droid
 
 Clone the repo:
